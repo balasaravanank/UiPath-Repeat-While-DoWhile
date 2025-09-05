@@ -1,0 +1,50 @@
+[
+  {
+    "Constant": false,
+    "Name": "numRepeats",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "repeatStart",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "1",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "whileCounter",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "1",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "whileLimit",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "doCounter",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "1",
+    "IsLiteral": true
+  },
+  {
+    "Constant": false,
+    "Name": "doLimit",
+    "TypeFullyQualifiedName": "System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "5",
+    "IsLiteral": true
+  }
+]
