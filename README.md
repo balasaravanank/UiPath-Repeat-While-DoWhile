@@ -1,7 +1,7 @@
 # UiPath - Loops Demo Workflow
 
 This repository contains a simple **UiPath workflow** that demonstrates the use of different looping activities:
-- **Repeat Number of Times**
+- **Repeat**
 - **While**
 - **Do While**
 
